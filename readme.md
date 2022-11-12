@@ -2,4 +2,4 @@
 
 DemoLink:-
 
-https://dev-mahbub.github.io/slider_Ui_Design/
+https://dev-mahbub.github.io/Photo-Slider
